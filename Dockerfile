@@ -1,5 +1,4 @@
-# FROM tensorflow/tensorflow:latest-gpu 
-FROM tensorflow/tensorflow:1.10.0-gpu-py3
+FROM tensorflow/tensorflow:1.13.0-gpu-py3
 
 ENV LANG C.UTF-8
 
